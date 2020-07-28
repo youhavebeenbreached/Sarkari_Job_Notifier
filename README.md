@@ -5,9 +5,12 @@ I was a bit busy and yeah kind of lazy to check the jobs on the website so I cre
 
 To Install Follow The Simple Five Steps Below.
 
- 1. Requirement:
- 2. Desktop or laptop
- 3. Little brain
+
+
+
+Requirement:
+ 1. Desktop or laptop
+ 2. Little brain
 
 Installation: 
 
@@ -16,6 +19,9 @@ Installation:
 3. Press Window Key + R To Open Run
 4. Then Write shell:startup
 5. Paste The Sarkari Job Notifier.exe In The Folder
+
+
+
 
 Voila! Your Done.
 
